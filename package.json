@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@project-serum/serum": "^0.13.65",
+    "@solana/web3.js": "^1.95.5",
+    "bigint-buffer": "^1.1.5",
+    "bn.js": "^5.2.1",
+    "bs58": "^6.0.0",
+    "delay": "^6.0.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
